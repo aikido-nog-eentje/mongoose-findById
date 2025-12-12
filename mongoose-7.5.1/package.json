@@ -1,0 +1,18 @@
+{
+  "name": "mongoose-findByIdAndUpdate-test",
+  "version": "1.0.0",
+  "description": "Test suite demonstrating mongoose 7.5.1 findByIdAndUpdate behavior",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node src/index.js",
+    "test": "npm run build && npm start"
+  },
+  "dependencies": {
+    "mongoose": "7.5.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
+
