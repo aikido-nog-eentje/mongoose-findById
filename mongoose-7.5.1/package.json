@@ -9,10 +9,9 @@
     "test": "npm run build && npm start"
   },
   "dependencies": {
-    "mongoose": "7.5.1"
+    "mongoose": "7.8.4"
   },
   "devDependencies": {
     "typescript": "^5.8.2"
   }
 }
-
